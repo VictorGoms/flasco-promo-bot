@@ -1,0 +1,5 @@
+*.session
+get_session.py
+setup_flasco.py
+telegram_discord.py
+__pycache__/
