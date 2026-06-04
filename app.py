@@ -10,10 +10,10 @@ API_HASH = os.environ["TG_API_HASH"]
 SESSION  = os.environ["TG_SESSION"]
 
 CANAIS = {
-    "@HardTecPromocoes": {
-        "webhook": os.environ["DISCORD_WEBHOOK"],
-        "username": "HardTec Promoções"
-    },
+    # "@HardTecPromocoes": {
+    #     "webhook": os.environ["DISCORD_WEBHOOK"],
+    #     "username": "HardTec Promoções"
+    # },
     "@jogosbaratos": {
         "webhook": os.environ["DISCORD_WEBHOOK_JOGOS"],
         "username": "Jogos Baratos"
